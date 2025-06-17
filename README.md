@@ -64,4 +64,8 @@ Este projeto utiliza técnicas de regressão multivariada para prever o peso de 
 
 ## Autor
 
+<<<<<<< HEAD
 Este projeto foi desenvolvido por Marcos Vinicius da Silva como parte de um estudo sobre regressão multivariada.
+=======
+Este projeto foi desenvolvido por Marcos Vinicius da Silva como parte de um estudo sobre regressão multivariada.
+>>>>>>> f54f634054d6fab57051e3054e76018c59877e52
